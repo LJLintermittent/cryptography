@@ -1,0 +1,85 @@
+ "Audit guidelines for authorities to investigate the special audit" on August 1,
+　　2001 implementation. In order to do a good job with the special audit investigation, the
+　　special audit report prepared, the paper will try to write a special audit investigation
+　　report (the report) to write data into analysis and editing the contents of the report, such
+　　as a two-step; and then discuss the two-step method of writing; written methods to reveal
+　　the main problems and propose solutions.
+　　One or two notes
+　　(A) audit institutions in society, as well as techniques for Writing little literature
+　　that reports such as "the basic situation of" choice, "Proposal" and other references
+　　related to the method of writing, there is no consensus. This stability, improve the level
+　　of an impact report. In this paper targeted a number of techniques to explore issues.
+　　(B) "analysis of written data" and "Edit the contents of the report" in the process of
+　　report writing no clear boundaries. However, the impact of quality issues,无外乎"analysis"
+　　and "edit" categories. To enable this paper to discuss the issue of system, location, easy
+　　to understand and the only in this way.
+　　Second, the process of data analysis methods and the existence of problems
+　　(A) the process of data analysis
+　　The process of data analysis report. The auditors verified the investigation of matters
+　　of awareness, and ultimately form an audit opinion in the thinking process of the system.
+　　Analysis and analysis of all aspects of the rules are as follows:
+　　1, define the facts. Is a matter being investigated (or: the problem, the same below)
+　　of the act and its related factors trajectory accurate and complete description. ①
+　　trajectory behavior: including the time and place, people the way to quantify the content of
+　　such range. ② event-related factors: including the quality of personnel, economic
+　　environment, regulatory requirements, such as the application of non-quantifiable elements.
+　　2, summed up the characteristics. Is a general problem (or non-expected issues, the
+　　same below) existence of characteristics. Methods:
+　　(1) the normative requirements (expected to state) and has completed the task of
+　　defining the issues of non-expected (non-expected state), for "How should we (the expected
+　　state)" and "how the actual (non-expected state)" comparison. (2) the difference will be
+　　with them. (3) One of the most able to explain the general situation of non-existence of the
+　　expected differences matter, that is, the characteristics of the matter.
+　　For example, the purchase of raw materials close to the market price (the expected
+　　state), but the purchase of long-haul and other high quality goods (non-expected state).
+　　Characteristics of the matter can be summed up as lower prices of raw materials purchased.
+　　3, look for the causes. Is to find unexpected events lead to specific issues.
+　　Practices: (1) define the task has been completed and the matter of non-expected start with
+　　the initial point. (2) may lead to unexpected behavior of the "event-related factors" out of
+　　order. (3) One of the most reasonable interpretation of the matter of non-expected
+　　"feature", and that the matter is the most likely cause.
+　　4, infer trends. The development of the adverse trend of the development goals and the
+　　corresponding scheme, or in terms of progress. Practices: (1) to determine the expected
+　　trend with the non-corresponding to the current and expected future state. (2) define the
+　　tasks have been completed by the non-expected current state of the matter, or derived
+　　estimates of the adverse consequences that may arise. (3) the future state of the two (that
+　　is, how should we and possible) with out the relevant factors. One of the biggest
+　　differences in admission as a corollary.
+　　5, to a conclusion. Concluded that by virtue of certain standards, the state of matters
+　　being investigated, the nature of the evaluation, including the individual facts and
+　　comprehensive evaluation of the two. (1) evaluation of the individual facts. The survey
+　　project is the application of normative standards, and has completed the task of
+　　investigating a matter of defining a comparison (quantitative comparison trajectory and
+　　behavior standards, qualitative standards and event-related factors), from which the most
+　　obvious differences, the most reasonable interpretation of the characteristics of the
+　　factors that matter, as the evaluation findings. (2) a comprehensive evaluation. Survey
+　　carried out on the overall evaluation. Approach: First of all, according to the survey
+　　applies to comprehensive (eg, legal, benefits, etc.) standards, the task has been completed
+　　to define the fact that the individual is classified collated and re-defined. Second, to
+　　generalize the characteristics of different types of matters. Thirdly, the task has been
+　　completed to define the overall integrated with the matter of a comprehensive evaluation of
+　　the application of standards of comparison, take the most reasonable explanation can be
+　　characterized by a synthesis factor, as the contents of the conclusions.
+　　6, to make recommendations. Cure and control recommendations include two levels. For
+　　"cause" of the proposal, you can fundamentally solve the "problem"; for "feature" of the
+　　proposal, can play a control, to avoid loss, so that "problem" not to further expand the
+　　role and even not occur. Because the inference drawn from the trend of adverse effects has
+　　not yet formed, so the characteristics of the proposed problem will be able to play its role
+　　in the control and prevention.
+　　For example: four years of a state-owned enterprises to private enterprises to invest a
+　　total of 100 million yuan, not investment income. (1) define: ① behavior trajectory: a
+　　four-year investment to the private enterprise of many more than 100 million yuan, not
+　　income. ② event-related factors: (see "possible causes") (2) features: a non-effective
+　　investment. (3) possible causes: ① quickly to market changes. ② low level of decision-
+　　making. ③ Management of the rule of law is not in place. Because changes in the market
+　　fast, low levels of decision-making, can not be insisted on the grounds of non-performing
+　　investments. Therefore, the management of the legal system in place, is the occurrence of
+　　the non-effectiveness of investment most likely cause of the problem. (4) trend inferred:
+　　that the past, the enterprise will be bankrupt. (5) Conclusion: (based on the principle of
+　　the responsibility of preserving and increasing the value of assets) the responsible person
+　　has lost a normal sense of responsibility. (6) recommendations for the selection: ① point
+　　to Reason: In accordance with market economy values, the operation of state-owned assets
+　　management responsibility of legislation. ② point features: carefully conducted survey on
+　　the market; further strengthen the feasibility study; major decisions must be approved by
+　　the board of directors vote; the establishment of direct and indirect responsibility for the
+　　accountability system, and so on.
